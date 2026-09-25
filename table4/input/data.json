@@ -1,0 +1,49 @@
+{
+  "id": "table1",
+  "columns": [
+    {
+      "columnName": "id",
+      "title": "#",
+      "field": "id",
+      "isVisible": true
+    },
+    {
+      "columnName": "First",
+      "title": "First",
+      "field": "First",
+      "isVisible": true
+    },
+    {
+      "columnName": "Last",
+      "title": "Last",
+      "field": "Last",
+      "isVisible": true
+    },
+    {
+      "columnName": "Handle",
+      "title": "Handle",
+      "field": "Handle",
+      "isVisible": true
+    }
+  ],
+  "data": [
+    {
+      "id": "1",
+      "First": "Mark",
+      "Last": "Otto",
+      "Handle": "@mdo"
+    },
+    {
+      "id": "2",
+      "First": "Jacob",
+      "Last": "Thornton",
+      "Handle": "@fat"
+    },
+    {
+      "id": "3",
+      "First": "John",
+      "Last": "Doe",
+      "Handle": "@social"
+    }
+  ]
+}
