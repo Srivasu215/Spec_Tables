@@ -1,4 +1,4 @@
-import buildSpecElement from "../../src/index.js";
+import buildSpecElement from "https://keshavsoft.github.io/json-to-spec/dist/v23/min.js";
 
 import "https://keshavsoft.github.io/json-to-tag/dist/v4/min.js";
 
